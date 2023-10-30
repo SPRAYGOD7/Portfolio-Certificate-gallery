@@ -2,10 +2,9 @@
 
 [Live Preview](https://portfolio-lokendra-singh.netlify.app)
 
-![dynamic-portfolio](https://github.com/SPRAYGOD7)
+![dynamic-portfolio](https://github.com/SPRAYGOD7/Portfolio-Certificate-gallery)
 
-It can be use as a picture library or a portafolio to show your work or the work of your client. It is basically inspired by the work of [franciscopugh
-](https://github.com/SPRAYGOD7).
+It can be use as a picture library or a portafolio to show your work or the work of your client.
 
 In this project 2 great javascript libraries were used: 
 1. [Murri](https://github.com/haltu/muuri): Used the organize the contents and to allow filtering
